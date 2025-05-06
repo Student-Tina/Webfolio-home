@@ -1,0 +1,8 @@
+table{
+	text-align: center;
+} /* The header should be centered*/
+li{
+	font-family: imprima;
+	font-size: 30px;
+	color: #9370DB;
+}
